@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://via.placeholder.com/100" width="100" height="100"><br>
-  <i>Our Apps Tagline, Paham? - Kak Gem (1923)</i>
+  <img src="/assets/logo.png" width="120" height="120"><br>
+  <i>Healthy Growth, Happy Future</i>
 </div>
 
 <br>
 
 ### Number #1 Stunting Prevention and Detection Apps
+The stunting prevalence rate in Indonesia remains high, with 21.5% of children affected, according to the thematic report of the “Survei Kesehatan Indonesia 2023” same as the prevalence rate from 2022. The number of priority cities/districts also increased to 514 cities/districts, with 154 new cities/districts that year. This issue has serious implications for the country’s future, as stunting impairs children's growth, cognitive development, and long-term productivity. Key factors contributing to stunting include inadequate maternal nutrition, limited healthcare access, poor environmental conditions (such as inadequate sanitation), and family medical histories. Existing government interventions, like the 1000 HPK program, have faced implementation challenges, limiting their impact on stunting reduction.
 
+Our team has explored various stunting prevention methods through a review of both digital and non-digital solutions documented in scientific journals. Based on our analysis, we propose a digital solution that leverages machine learning as part of AI technology to monitor and detect stunting risk factors. Our project android-base application is designed to provide data-driven insights on stunting risk, helping users and healthcare providers take preventive action. By assisting the government and local communities in strengthening stunting prevention efforts, this solution aligns with Indonesia’s goal to reduce the stunting rate to 14% by 2024 and supports the long-term vision of “Indonesia Emas” in 2045.
 
 #### Our Dreams (Purpose Driven) 🏆
 - Raise awareness about the long-term impact of nutrition and environment on children health and development
@@ -105,15 +107,20 @@
 </div>
 
 ## StuntFree Apps Showcase 💖
+<a href="https://www.figma.com/design/C7PVhpMKuA5h32raIspeSp/Design?node-id=888-5362&t=wEOdQfJNCDA54OIc-1"><img src="/assets/cover.png"></a>
+
+<br>
+
+<a href="https://www.figma.com/design/C7PVhpMKuA5h32raIspeSp/Design?node-id=888-5362&t=wEOdQfJNCDA54OIc-1"><img src="/assets/cover_2.png"></a>
 
 ### Application Demo 📱
 [Application Demo Link]()
 
 ### Each Project Documentation 📃
-- [Mobile Development]()
-- [Machine Learning]()
-- [Cloud Computing - Main API]()
-- [Cloud Computing - ML Services]()
+- [Mobile Development](https://github.com/C242-PS374/stuntfree-mobile)
+- [Machine Learning](https://github.com/C242-PS374/stuntfree-ml-research)
+- [Cloud Computing - Main API](https://github.com/C242-PS374/stuntfree-api)
+- [Cloud Computing - ML Services](https://github.com/C242-PS374/stuntfree-ml-service)
 
 ### Project Documents 📄 
 - [Project Plan](https://docs.google.com/document/d/15FfikwYjZaVw98iOvyqgPaWotKK1mUcimIkuDtA-9hA/edit?tab=t.0)
