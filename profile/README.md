@@ -1,5 +1,21 @@
 <div align="center">
-  <h3>Our Remarkable Team 💫✨</h3>
+  <img src="https://via.placeholder.com/100" width="100" height="100"><br>
+  <i>Our Apps Tagline, Paham? - Kak Gem (1923)</i>
+</div>
+
+<br>
+
+### Number #1 Stunting Prevention and Detection Apps
+
+
+#### Our Dreams (Purpose Driven) 🏆
+- Raise awareness about the long-term impact of nutrition and environment on children health and development
+- Address stunting as a serious issue in Indonesia by providing tools for monitoring and improving children's growth.
+- Empower mothers during critical stages such as prenatal and postnatal periods to prevent and detect stunting in their children.
+- Utilize technology in capturing the various factors that can prevent and detect stunting in children across various regions in Indonesia.
+
+<div align="center">
+  <h3>Our Remarkable Team (C242-PS374) 💫✨</h3>
   <table align="center">
     <tr>
       <th>Bangkit ID</th>
@@ -87,3 +103,22 @@
     </tr>
   </table>
 </div>
+
+## StuntFree Apps Showcase 💖
+
+### Application Demo 📱
+[Application Demo Link]()
+
+### Each Project Documentation 📃
+- [Mobile Development]()
+- [Machine Learning]()
+- [Cloud Computing - Main API]()
+- [Cloud Computing - ML Services]()
+
+### Project Documents 📄 
+- [Project Plan](https://docs.google.com/document/d/15FfikwYjZaVw98iOvyqgPaWotKK1mUcimIkuDtA-9hA/edit?tab=t.0)
+- [Project Brief](https://docs.google.com/document/d/1qxfLx2wOV0IcwZQoxNU19rA-CAlBuzd21Mqh2pE53Fg/edit?usp=sharing)
+- [Final Presentation]()
+
+### Special Thanks to :
+Each member of this team who gave their best effort, time, and dedication to this project. 😭🙏
