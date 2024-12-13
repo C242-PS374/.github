@@ -114,7 +114,7 @@ Our team has explored various stunting prevention methods through a review of bo
 <a href="https://www.figma.com/design/C7PVhpMKuA5h32raIspeSp/Design?node-id=888-5362&t=wEOdQfJNCDA54OIc-1"><img src="/assets/cover_2.png"></a>
 
 ### Application Demo 📱
-[Application Demo Link]()
+[Application Demo Link](https://youtu.be/JOqzGZTSpqI)
 
 ### Each Project Documentation 📃
 - [Mobile Development](https://github.com/C242-PS374/stuntfree-mobile)
@@ -125,7 +125,8 @@ Our team has explored various stunting prevention methods through a review of bo
 ### Project Documents 📄 
 - [Project Plan](https://docs.google.com/document/d/15FfikwYjZaVw98iOvyqgPaWotKK1mUcimIkuDtA-9hA/edit?tab=t.0)
 - [Project Brief](https://docs.google.com/document/d/1qxfLx2wOV0IcwZQoxNU19rA-CAlBuzd21Mqh2pE53Fg/edit?usp=sharing)
-- [Final Presentation]()
+- [Final Presentation](https://youtu.be/JOqzGZTSpqI)
+- [Figma Design Link](https://www.figma.com/design/C7PVhpMKuA5h32raIspeSp/Design?node-id=888-5362&t=SUlpdxUXDQB62wuJ-1)
 
 ### Special Thanks to :
 Each member of this team who gave their best effort, time, and dedication to this project. 😭🙏
